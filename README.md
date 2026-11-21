@@ -12,7 +12,7 @@ The map file is over GitHub's 100 MB limit, so it travels zipped: `maps/rp_proje
 ## Testers - just join
 
 Join the server. Steam downloads the map and everything it needs by itself (about 1.2 GB the first time, and again after
-each map update) - Workshop item [3843793036](https://steamcommunity.com/sharedfiles/filedetails/?id=3843793036).
+each map update) - Workshop item [3843798845](https://steamcommunity.com/sharedfiles/filedetails/?id=3843798845).
 Subscribing to that item beforehand does the same download ahead of time.
 
 The steps below are only needed if that download does not work for you.
