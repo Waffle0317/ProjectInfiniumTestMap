@@ -6,26 +6,22 @@ Map: `rp_projectinfinium_roma1939_v1` - Garry's Mod, Helix RP. Test build for pl
 repository (see `CREDITS.txt`); the Counter-Strike: Source and Half-Life 2 episode content it uses ships inside Garry's Mod.
 
 The repository **is** the addon folder: `maps/`, `materials/`, `models/`, `sound/`, `lua/`, `data_static/`.
-The map file (`maps/rp_projectinfinium_roma1939_v1.bsp`, about 230 MB) is stored with **Git LFS** because GitHub refuses files over 100 MB.
+The map file is over GitHub's 100 MB limit, so it travels zipped: `maps/rp_projectinfinium_roma1939_v1.bsp.zip` (about 85 MB).
+**It has to be unpacked once after every download or update** - one double-click for testers, one click in the server panel.
 
 ## Testers - installing
 
-1. Install [GitHub Desktop](https://desktop.github.com/) (it brings Git LFS) or Git + Git LFS.
-2. Clone this repository **into your addons folder, under this exact lower-case name**:
-
-   ```
-   cd "C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\addons"
-   git clone https://github.com/Waffle0317/ProjectInfiniumTestMap.git rp_projectinfinium_roma1939_v1
-   ```
-
-   In GitHub Desktop: *File > Clone repository*, and set the local path to `...\garrysmod\addons\rp_projectinfinium_roma1939_v1`.
-3. Check that `maps/rp_projectinfinium_roma1939_v1.bsp` is about 230 MB. If it is under 1 KB, Git LFS did not run: run `git lfs pull` in the folder.
+1. Get the files - either way works:
+   - **Download ZIP** (the green *Code* button on GitHub) and unpack it, or
+   - clone with [GitHub Desktop](https://desktop.github.com/) or `git clone https://github.com/Waffle0317/ProjectInfiniumTestMap.git rp_projectinfinium_roma1939_v1`.
+2. Put the folder into `...\steamapps\common\GarrysMod\garrysmod\addons` and make sure it is named exactly
+   `rp_projectinfinium_roma1939_v1` (all lower case; a downloaded ZIP unpacks as `ProjectInfiniumTestMap-main` - rename it).
+3. Double-click **`install_map.bat`** in that folder. It unpacks the map into `maps/` (about 230 MB).
+   By hand instead: unpack `maps/rp_projectinfinium_roma1939_v1.bsp.zip` so that `maps/rp_projectinfinium_roma1939_v1.bsp` sits next to it.
 4. Restart Garry's Mod (addon folders are only picked up when the game starts), then join the server - or `map rp_projectinfinium_roma1939_v1`.
 
-To update later: *Fetch / Pull* in GitHub Desktop, or `git pull` in the folder.
-
-*Download ZIP* only gives the real map file if the repository owner has ticked **Settings > General > Archives > Include Git LFS
-objects in archives**. After unpacking a ZIP, rename the folder to `rp_projectinfinium_roma1939_v1`.
+**Updating:** download again (or *Pull*), then run `install_map.bat` again. If the game says your map differs from the
+server's, the map was not unpacked after the update.
 
 ## Server (Physgun panel)
 
@@ -33,10 +29,16 @@ objects in archives**. After unpacking a ZIP, rename the folder to `rp_projectin
    The repository is private: open **Git > Deploy Key** in the panel, add that key to this repository on GitHub
    (*Settings > Deploy keys > Add deploy key*, read-only is enough) and clone with the SSH link `git@github.com:Waffle0317/ProjectInfiniumTestMap.git`.
 2. Make sure the cloned folder is named `rp_projectinfinium_roma1939_v1` (all lower case - a Linux server ignores addon folders with capitals).
-3. Check `maps/rp_projectinfinium_roma1939_v1.bsp` in that folder: about 230 MB. If it is a tiny text file, the panel's Git has no LFS - upload the
-   `.bsp` by hand into the same `maps` folder (SFTP or the File Manager).
+3. Open that folder's `maps` folder, select `rp_projectinfinium_roma1939_v1.bsp.zip` and choose **Unarchive / Extract** (right-click or the `...` menu).
+   `rp_projectinfinium_roma1939_v1.bsp` must appear beside it, about 230 MB. If the panel cannot unpack it, upload the `.bsp` by hand instead.
 4. Check that `sourceengine/content_cstrike_dir.vpk` exists in the server's Garry's Mod install (it ships with the game).
-5. Set the start map to `rp_projectinfinium_roma1939_v1` and restart the server. Later updates: **Git > Pull** in that folder, then restart.
+5. Set the start map to `rp_projectinfinium_roma1939_v1` and restart the server.
+
+**Updating the server:** **Git > Pull** in that folder, unpack the zip again (overwrite), restart.
+The unpacked `.bsp` is not part of the repository (`.gitignore`), so a pull never collides with it.
+
+Why zipped and not Git LFS: the panel's Git does not fetch LFS files - the server got a three-line text file instead of the
+map ("is not a valid BSP file").
 
 ## Builders' tools - for everyone on the server
 

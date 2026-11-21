@@ -1,4 +1,2 @@
-# the map file is over GitHub's 100 MB limit: stored with Git LFS
-*.bsp filter=lfs diff=lfs merge=lfs -text
 # never touch line endings: everything here is game content
 * -text

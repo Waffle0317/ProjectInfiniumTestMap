@@ -1,0 +1,2 @@
+# the unpacked map: it travels as maps/<name>.bsp.zip (GitHub refuses files over 100 MB; no Git LFS - the server's Git has none)
+maps/*.bsp
