@@ -1,0 +1,155 @@
+ROMA 1939 - Project Infinium - content credits (release V1)
+============================================================
+
+Everything under materials/pi_roma1939, models/pi_roma1939 and sound/pi_roma1939 comes from other people's work,
+bundled with their permission and renamed (original path kept beneath pi_roma1939/).
+
+Workshop addons the files were taken from directly:
+  3143077240   Monolith: Truenorth 2024                               190 files    77.9 MB   https://steamcommunity.com/sharedfiles/filedetails/?id=3143077240
+  1175914416   Romans Soldiers - Statue- Ryse son of Rome [Props]      26 files    12.6 MB   https://steamcommunity.com/sharedfiles/filedetails/?id=1175914416
+  3329236997   Thrones [Props]                                          3 files     3.5 MB   https://steamcommunity.com/sharedfiles/filedetails/?id=3329236997
+  3583404015   Diverge Content #4                                       2 files     0.2 MB   https://steamcommunity.com/sharedfiles/filedetails/?id=3583404015
+  3807957804   mithc 3                                                  6 files     0.1 MB   https://steamcommunity.com/sharedfiles/filedetails/?id=3807957804
+  3815554396   mithc 2                                                  1 files     0.0 MB   https://steamcommunity.com/sharedfiles/filedetails/?id=3815554396
+
+From the project's own content folders (earlier imports from Workshop maps and packs, and textures made for the map):
+  content                        562 files   150.6 MB
+  content_ref                    370 files   147.6 MB
+  content_tn                     200 files     6.6 MB
+  gm_roma1939_content              2 files     1.2 MB
+
+By original folder (files, MB, where this PC had them):
+  materials/agency                                  12     1.9   content (10), workshop/3143077240 (2)
+  materials/ajacks                                   2     0.5   workshop/3143077240 (2)
+  materials/ares                                     5     4.0   content (3), content_ref (2)
+  materials/braschi                                 11     3.9   content (11)
+  materials/brick                                    6     2.6   content (5), workshop/3143077240 (1)
+  materials/buildings                                1     0.2   workshop/3143077240 (1)
+  materials/c24_v3                                   9     6.4   content (9)
+  materials/cod_ww2_officeprops                    103    86.4   content_ref (103)
+  materials/colosseum                               48    15.7   content (47), gm_roma1939_content (1)
+  materials/concrete                                17     4.0   content (14), content_ref (2), workshop/3143077240 (1)
+  materials/detail                                   1     0.2   content (1)
+  materials/env                                      2     0.0   workshop/3143077240 (2)
+  materials/environment maps                         1     0.3   content (1)
+  materials/hr_massive                               3     0.9   content (3)
+  materials/liquids                                  1     0.3   workshop/3143077240 (1)
+  materials/logan                                    4     0.2   content (4)
+  materials/models/c24_v3_interior                   1     0.0   content (1)
+  materials/models/comradebear                       3     0.5   content_ref (3)
+  materials/models/fontana_mose                     30     5.4   content (30)
+  materials/models/grillsprops                      18     4.2   workshop/3143077240 (16), content_tn (2)
+  materials/models/hts                              48    20.0   content_ref (48)
+  materials/models/james                            16    19.6   content (16)
+  materials/models/lights                            4     0.7   content_ref (4)
+  materials/models/postal3                           4     0.2   content_ref (4)
+  materials/models/prometheus                       12     1.7   content_ref (10), content (2)
+  materials/models/propper                          31     0.0   content (31)
+  materials/models/props                            25     1.6   content (22), workshop/3583404015 (2), workshop/3143077240 (1)
+  materials/models/props_building_detail             8     3.3   workshop/3143077240 (8)
+  materials/models/props_bunker                      5    16.8   content_ref (5)
+  materials/models/props_city                       10     6.3   workshop/3143077240 (10)
+  materials/models/props_dam                         3     0.5   content (3)
+  materials/models/props_doors                      14     0.8   workshop/3143077240 (14)
+  materials/models/props_downtown                    5     1.0   workshop/3143077240 (5)
+  materials/models/props_electric                    8     2.4   workshop/3143077240 (8)
+  materials/models/props_exteriors                   2     0.2   workshop/3143077240 (2)
+  materials/models/props_foliage                    50    32.9   workshop/3143077240 (49), content_tn (1)
+  materials/models/props_furniture                   2     0.2   workshop/3143077240 (2)
+  materials/models/props_interiors                  17     0.7   workshop/3143077240 (13), content_tn (2), content (2)
+  materials/models/props_lamps_lights               10     0.8   content (10)
+  materials/models/props_outland                     4     0.4   content (4)
+  materials/models/props_rooftop                     2     0.2   workshop/3143077240 (2)
+  materials/models/props_seppola                     1     0.0   content_ref (1)
+  materials/models/props_structure                   5     1.0   workshop/3143077240 (5)
+  materials/models/props_tables_desks                3     1.0   content (3)
+  materials/models/props_unioncity                   8     1.8   content_ref (5), content (3)
+  materials/models/props_unique                      2     0.1   workshop/3143077240 (2)
+  materials/models/props_urban                      10     0.4   content (6), workshop/3143077240 (2), content_tn (2)
+  materials/models/props_villa                      10     7.0   workshop/3143077240 (10)
+  materials/models/romans_soldier_statue             6     8.4   workshop/1175914416 (6)
+  materials/models/royal_throne                     10     1.1   content (10)
+  materials/models/shipshower                        2     0.2   workshop/3143077240 (2)
+  materials/models/stpeters                         28     0.0   content (28)
+  materials/models/typhonberlin                      6     1.6   content (6)
+  materials/models/vaelyn                            3     3.5   workshop/3329236997 (3)
+  materials/nature                                   2     0.7   workshop/3143077240 (2)
+  materials/ocrp                                     1     0.0   workshop/3143077240 (1)
+  materials/office                                   1     0.7   workshop/3143077240 (1)
+  materials/plaster                                  4     3.5   workshop/3143077240 (4)
+  materials/prometheus                               3     3.5   content_ref (3)
+  materials/props/gamedev                            2     0.1   content (2)
+  materials/rcnmat                                   1     0.3   content (1)
+  materials/realworldtextures                        5     0.7   content (4), workshop/3143077240 (1)
+  materials/realworldtextures2                       8     1.4   workshop/3143077240 (8)
+  materials/rock                                     5     2.8   workshop/3143077240 (3), content_tn (2)
+  materials/sprites                                  1     0.0   workshop/3815554396 (1)
+  materials/statua                                   7     2.8   content_tn (5), workshop/3143077240 (2)
+  materials/stone                                    7     1.1   content (5), workshop/3143077240 (2)
+  materials/stpeters                                52    10.7   content (52)
+  materials/themask                                  8     5.2   content (8)
+  materials/trajan                                  11    10.0   content (11)
+  materials/typhon                                  29     4.8   content (29)
+  materials/unioncity                                5     0.4   content (3), content_ref (2)
+  materials/unioncity2                               2     0.9   content_ref (2)
+  materials/unioncity3                               1     0.3   content_ref (1)
+  materials/vittoriano                              13     9.1   content (12), gm_roma1939_content (1)
+  materials/wood                                    12     3.7   content (7), workshop/3143077240 (5)
+  models/cod_ww2_officeprops                        80     5.8   content_ref (80)
+  models/env                                         4     0.0   content_tn (4)
+  models/fontana_mose_r2                             4     0.0   content (4)
+  models/fontana_mose_r3                            15    11.9   content (15)
+  models/grillsprops                                35     0.7   content_tn (35)
+  models/james                                       3     6.7   content (3)
+  models/lights                                      5     0.1   content_ref (5)
+  models/logan                                       5     1.1   content (5)
+  models/models/bf2                                  4     0.0   content (4)
+  models/models/typhonberlin                         5     3.8   content (5)
+  models/postal3                                    10     0.1   content_ref (10)
+  models/prny                                        4     0.1   content_ref (4)
+  models/prometheus                                 56     4.8   content_ref (56)
+  models/propper                                    60    14.2   content (60)
+  models/props                                       5     0.0   content_tn (5)
+  models/props/de_inferno                            4     0.0   content (4)
+  models/props/doors                                 5     0.1   content (5)
+  models/props_building_detail                       8     0.1   content_tn (8)
+  models/props_bunker                                5     0.1   content_ref (5)
+  models/props_city                                  8     0.1   content_tn (8)
+  models/props_dam                                   5     0.3   content (5)
+  models/props_doors                                 5     0.2   content_tn (5)
+  models/props_downtown                              7     0.2   content_tn (7)
+  models/props_electric                              9     0.2   content_tn (9)
+  models/props_exteriors                             4     0.1   content_tn (4)
+  models/props_foliage                              24     1.9   content_tn (23), workshop/3807957804 (1)
+  models/props_furniture                             4     0.1   content_tn (4)
+  models/props_interiors                            29     0.8   content_tn (19), content (5), workshop/3807957804 (5)
+  models/props_lamps_lights                          4     0.2   content (4)
+  models/props_rooftop                               4     0.2   content_tn (4)
+  models/props_structure                            16     0.3   content_tn (16)
+  models/props_tables_desks                          4     0.0   content (4)
+  models/props_unique                                5     0.1   content_tn (5)
+  models/props_urban                                12     0.2   content_tn (7), content (5)
+  models/props_villa                                16     1.1   content_tn (16)
+  models/romans_soldier_statue                      20     4.2   workshop/1175914416 (20)
+  models/royal_throne                                5     1.8   content (5)
+  models/shipshower.dx80.vtx                         1     0.0   content_tn (1)
+  models/shipshower.dx90.vtx                         1     0.0   content_tn (1)
+  models/shipshower.mdl                              1     0.0   content_tn (1)
+  models/shipshower.phy                              1     0.0   content_tn (1)
+  models/shipshower.vvd                              1     0.0   content_tn (1)
+  models/themask                                     5     0.2   content (5)
+  models/uc                                         15     0.6   content_ref (10), content (5)
+  models/vaelyn                                      5     0.5   content_ref (5)
+  sound/door                                         2     0.6   content_tn (2)
+
+Earlier imports are listed file by file in the project's CREDITS_SOURCES.txt:
+  Files taken from the Workshop map "1942RP | Berlin" (id 3755127920, rp_free_berlin_v2) and shipped with this map.
+
+Valve content (Half-Life 2, its episodes, Counter-Strike: Source) is NOT in the addon: the map uses the copies that
+ship inside Garry's Mod.
+
+Kept under their original names (a model of the game itself asks for them by that path):
+  materials/models/props/cs_militia/boxes1.vmt
+  materials/models/props/cs_militia/boxes1.vtf
+  materials/sprites/light_glow_001.vtf
+  models/props_foliage/shrub_01a.phy

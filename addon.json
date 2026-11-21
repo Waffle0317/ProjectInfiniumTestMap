@@ -1,0 +1,16 @@
+{
+ "title": "Roma 1939 - Project Infinium (V1 test)",
+ "type": "map",
+ "tags": [
+  "roleplay",
+  "realism"
+ ],
+ "ignore": [
+  "*.txt",
+  "*.md",
+  "*.psd",
+  "*.vmf",
+  "*.log",
+  ".git*"
+ ]
+}
