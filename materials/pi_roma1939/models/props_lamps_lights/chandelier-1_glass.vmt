@@ -1,0 +1,15 @@
+vertexlitgeneric
+{
+ $baseTexture "pi_roma1939/models\props_lamps_lights/chandelier-1_GLASS"
+ $envmapmask "pi_roma1939/models\props_lamps_lights/chandelier-1_GLASS_ENVMASK"
+ $envmap env_cubemap
+
+// "$selfillummask " "models\props_lamps_lights/chandelier-1_GLASS_selfillum"
+// $selfillum 1
+
+ $translucent 1
+ $nocull 1
+
+ $envmapsaturation "0.7"
+ $envmaptint "[0.93 0.93 0.93]"
+}

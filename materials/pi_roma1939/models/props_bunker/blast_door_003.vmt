@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "pi_roma1939/models/props_bunker/blast_door_003"
+	$FlashlightNoLambert 1
+
+	Proxies
+	{
+		UseHighlight
+		{
+		}
+	}
+}

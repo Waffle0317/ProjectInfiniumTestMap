@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "pi_roma1939/models/prometheus/flagpole/border_flagpole1"
+	"$envmap" "env_cubemap"
+	"$envmapmask" "pi_roma1939/models/props_seppola/border_flagpole_ref"
+	"$envmapsaturation"	".4"
+	"$envmapcontrast"	".5"
+}

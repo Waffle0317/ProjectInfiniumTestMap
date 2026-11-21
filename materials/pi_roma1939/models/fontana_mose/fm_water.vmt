@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "pi_roma1939/models/fontana_mose/fm_water_calm"
+	"$surfaceprop" "water"
+	"$alpha" "0.78"
+	"Proxies"
+	{
+		"TextureScroll"
+		{
+			"texturescrollvar" "$basetexturetransform"
+			"texturescrollrate" "0.008"
+			"texturescrollangle" "35"
+		}
+	}
+}

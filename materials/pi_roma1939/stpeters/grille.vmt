@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "pi_roma1939/stpeters/grille"
+	"$surfaceprop" "metal"
+"$alphatest" "1"
+"$alphatestreference" ".5"
+"$allowalphatocoverage" "1"
+}

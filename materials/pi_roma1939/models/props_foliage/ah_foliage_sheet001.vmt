@@ -1,0 +1,34 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "pi_roma1939/models/props_foliage/ah_foliage_sheet001"
+	"$alphatest" 1
+	"$surfaceprop" "foliage"
+	"$nocull" 1
+	"model" 1
+"$translate" "[0 0]"
+
+"Proxies"
+{
+	Sine
+	{
+		sineperiod	4
+		sinemin		0
+		sinemax		0.005
+		timeoffset	0
+		resultVar	"$translate[0]"
+	}
+	Sine
+	{
+		sineperiod	5.5
+		sinemin		0
+		sinemax		0.005
+		timeoffset	0
+		resultVar	"$translate[1]"
+	}
+	
+	TextureTransform
+        {
+		translateVar	$translate
+		resultVar	$basetexturetransform
+        }
+}

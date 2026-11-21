@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "pi_roma1939/models\james\us_rolling_stocks\strasburg_passenger_car\body_blu"
+
+	"$nocull" 1
+
+}
+
+

@@ -1,0 +1,9 @@
+LightmappedGeneric
+{
+$baseTexture "pi_roma1939/concrete/concrete_floor_10"
+$surfaceprop concrete
+
+		"$detail" "pi_roma1939/detail/concrete/concrete_02"
+		"$detailblendfactor" "0.8"
+		"$detailscale" "8.60"
+}

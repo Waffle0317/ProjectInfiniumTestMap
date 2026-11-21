@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+$basetexture "pi_roma1939/unioncity/ceiling/carparkceiling"
+$color "[.8 .8 .8]"
+
+$surfaceprop concrete
+}

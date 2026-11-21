@@ -1,0 +1,26 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "pi_roma1939/cod_ww2_officeprops/bulb1ontex"
+	"$bumpmap" "pi_roma1939/cod_ww2_officeprops/bulb1onnrm" 
+
+	"$translucent" "1"
+	"$nocull" "1"
+	
+	"$mostlyopaque" "1"
+	"$ambientocclusion" "0"
+
+    "$selfillum"          "1"
+
+    "$selfillumtint"      "[5.5 4.5 3.0]" 
+
+	"$surfaceprop" "glass"
+	"$model" "1"
+
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[1 1 1]"
+
+	"$phong" "1"
+	"$phongexponent" "150"
+	"$phongboost" "4"
+	"$phongfresnelranges" "[0.3 0.6 1]"
+}

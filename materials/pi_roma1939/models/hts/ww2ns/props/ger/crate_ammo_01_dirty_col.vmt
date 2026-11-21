@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "pi_roma1939/models/hts/ww2ns/props/ger/crate_ammo_01_dirty_col"
+	"$bumpmap" "pi_roma1939/models/hts/ww2ns/props/ger/crate_ammo_01_dirty_nml"
+}

@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+	$basetexture "pi_roma1939/models/grillsprops/MineSupport"
+	$bumpmap "pi_roma1939/models/grillsprops/minesupport_normal"
+}

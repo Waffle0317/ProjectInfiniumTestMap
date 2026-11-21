@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "pi_roma1939/models/props_dam/hartman_chair_002"
+	"$bumpmap"	"pi_roma1939/models/props_dam/hartman_chair_002_normal"
+
+	"$halflambert" 		"1"
+
+	"$phong" 		"1"
+	"$phongexponent" 	"2"
+	"$phongboost" 		"1"
+	"$phongfresnelranges" 	"[0.05 0.05 0.05]"
+}

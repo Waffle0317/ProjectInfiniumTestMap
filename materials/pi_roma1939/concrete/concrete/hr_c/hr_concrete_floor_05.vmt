@@ -1,0 +1,8 @@
+lightmappedgeneric
+{
+	"$basetexture"       "pi_roma1939/concrete/hr_c/hr_concrete_floor_05_color"
+	"$surfaceprop"       "concrete"
+	"$detail"            "pi_roma1939/concrete/hr_c/hr_concrete_floor_05_detail"
+	"$detailscale"       ".24"
+	"$detailblendfactor" ".55"
+}

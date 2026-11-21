@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "pi_roma1939/models/Lights/Light_Fixture_02_on"
+   "$selfillum" 1 
+   $selfillumtint "[ 2 2 1.5 ]"
+}

@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "pi_roma1939/stpeters/m_dado"
+	"$surfaceprop" "stone"
+	"$phong" "1"
+	"$phongexponent" "20"
+	"$phongboost" ".3"
+	"$phongfresnelranges" "[.4 .7 1]"
+}

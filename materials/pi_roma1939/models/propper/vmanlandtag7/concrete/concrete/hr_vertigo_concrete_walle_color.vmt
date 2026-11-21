@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture"		"pi_roma1939/concrete\hr_vertigo_concrete_walle_color"
+	"$detail"		"detail/detailconcrete001a"
+	"$detailscale"		"2"
+	"$model"		"1"
+}

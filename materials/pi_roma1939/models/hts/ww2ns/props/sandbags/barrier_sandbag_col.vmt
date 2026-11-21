@@ -1,0 +1,21 @@
+"VertexLitGeneric"
+
+{
+
+	"$basetexture"			"pi_roma1939/models/hts/ww2ns/props/sandbags/barrier_sandbag_col"
+	"$bumpmap"			"pi_roma1939/models/hts/ww2ns/props/sandbags/barrier_sandbag_nrm"
+
+
+	"$phong"  				"1"
+	"$phongexponent" 		"48"
+	"$phongboost" 			"1.5"
+	"$phongfresnelranges"	"[0.1 .2 .3]"
+	"$phongtint" 			"[0.6 0.8 1]"
+	$phongexponenttexture "pi_roma1939/models/hts/ww2ns/props/sandbags/barrier_sandbag_spec"
+	"$phongalbedotint" 		"1"	
+
+	"$envmapfresnel"	"0.5"
+	"$envmap"			"env_cubemap"
+	"$envmaptint"		"[0.1 0.1 0.1]"
+	"$normalmapalphaenvmapmask"	"1"
+}

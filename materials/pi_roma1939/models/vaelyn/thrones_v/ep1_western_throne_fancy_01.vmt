@@ -1,0 +1,23 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "pi_roma1939/models/Vaelyn/Thrones_V/ep1_western_throne_fancy_01"
+	"$normalmap" "pi_roma1939/models/Vaelyn/Thrones_V/ep1_western_throne_fancy_01_b_n"
+   
+	 "$phong" "1"
+ 	 "$phongfresnelranges"    "[0.5 4.75 5]"
+   	 "$phongboost"    ".3"
+
+ 	   "$envmaptint"    "[.135 .135 .135]"
+  	  "$envmapfresnel"    "1.4"
+  	  "$normalmapalphaenvmapmask" 1
+
+    	  "$halflambert" "1"
+	  "$alphatest" 1
+
+ 	  "$ambientocclusion" "1"
+    	  "$cloakPassEnabled"         "1"
+   	  "$nocull" "1"
+
+}
+
+

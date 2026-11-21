@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "pi_roma1939/Concrete/concretewall_handling01a"
+	"$detail" "detail/detailconcrete001a"
+	"$detailscale" 4
+}

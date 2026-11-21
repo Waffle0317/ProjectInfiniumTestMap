@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "pi_roma1939/models/hts/ww2ns/props/ger/ger_crate_ration_01_col"
+	"$bumpmap" "pi_roma1939/models/hts/ww2ns/props/ger/ger_crate_ration_01_nml"
+}

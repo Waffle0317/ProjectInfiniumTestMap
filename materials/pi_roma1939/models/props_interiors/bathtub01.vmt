@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+$baseTexture "pi_roma1939/models\props_interiors/Bathtub01"
+$envmap env_cubemap
+$envmapmask "pi_roma1939/models\props_interiors\Bathtub01_ref"
+}

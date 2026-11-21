@@ -1,0 +1,7 @@
+"vertexlitGeneric"
+{
+	"$basetexture" "pi_roma1939/models/props_foliage/pine_001_card"
+	"$alphatest" 1
+	$allowalphatocoverage	1
+	"$nocull" 1
+}

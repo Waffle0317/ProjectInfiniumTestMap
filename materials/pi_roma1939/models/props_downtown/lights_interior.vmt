@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+$baseTexture "pi_roma1939/models\props_downtown/lights_interior"
+$Surfaceprop metal
+}

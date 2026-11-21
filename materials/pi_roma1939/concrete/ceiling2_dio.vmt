@@ -1,0 +1,5 @@
+LightmappedGeneric
+{
+$basetexture "pi_roma1939/concrete/ceiling2_dio"
+$surfaceprop concrete
+}

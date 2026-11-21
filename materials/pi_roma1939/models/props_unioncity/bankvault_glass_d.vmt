@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "pi_roma1939/models/props_unioncity/bankvault_glass_d"
+	$envmap env_cubemap
+	$translucent 1
+	
+}

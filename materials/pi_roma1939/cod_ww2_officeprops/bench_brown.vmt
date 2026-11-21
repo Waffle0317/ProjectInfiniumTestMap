@@ -1,0 +1,24 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "pi_roma1939/cod_ww2_officeprops/bench_brown_tex"
+	"$bumpmap" "pi_roma1939/cod_ww2_officeprops/bench_int_nrm" 
+ 	"$surfaceprop" "wood"
+   	"$model"                 "1"
+  	"$phong"             "1"
+ 	"$envmaptint" "[.7 .7 .7]"
+ 	"$envmap" "env_cubemap"
+
+  	"$phongexponent"             "6"
+   	"$phongboost"             "0.02"
+  	"$phongalbedotint"             "1"
+   	"$phongtint"             "[1 .95 .95]"
+  	"$phongfresnelranges"        "[0.5 6 10]"
+
+
+   	"$ambientocclusion"         "1"
+
+
+    	"$detailscale"        "15"
+    	"$detailblendmode"        "0"
+    	"$detailblendfactor"        "0" 
+}

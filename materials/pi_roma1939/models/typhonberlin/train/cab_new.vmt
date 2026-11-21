@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	$basetexture "pi_roma1939/models/typhonberlin/train/cab"
+	//$bumpmap "brest/models/docksv2/train_new/cab_normal"
+	
+	//$phong 1
+   // $phongexponent 5
+	//$phongexponenttexture "brest/models/docksv2/train_new/cab_exponent"
+   // $phongamount "[1 1 1 1]"
+
+    $metal 1
+    $roughnessmultiplier 1
+}

@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$basetexture"		"pi_roma1939/typhon/rpberlin/berlin_wood07"
+	"$detail"		"pi_roma1939/typhon/rpberlin/detail_generic"
+	"$detailscale"		"3"
+	"$detailblendfactor"		"0.600000"
+	"%keywords"		"typhon,berlin,gz"
+	"$color2"		"[1.7 1.7 1.7]"
+	"$model"		"1"
+}

@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "pi_roma1939/models/hts/ww2ns/props/mp/us_barrel_rust_01_green_col"
+	"$bumpmap" "pi_roma1939/models/hts/ww2ns/props/mp/us_barrel_rust_01_green_nml"
+}

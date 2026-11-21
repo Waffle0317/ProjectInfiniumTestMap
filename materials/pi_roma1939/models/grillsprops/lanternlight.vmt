@@ -1,0 +1,11 @@
+VertexLitGeneric
+{
+	$basetexture "pi_roma1939/models/grillsprops/LanternLight"
+
+	$envmap "env_cubemap"
+	$envmaptint "[0.90 0.90 0.90]"
+
+	$selfillum 1
+	$selfillummask "pi_roma1939/models/grillsprops/LanternLightAO"
+	$selfillumtint "[0.80 0.80 0.80]"
+}

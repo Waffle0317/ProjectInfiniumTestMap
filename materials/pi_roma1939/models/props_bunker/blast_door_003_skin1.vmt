@@ -1,0 +1,24 @@
+"VertexlitGeneric"
+{
+	"$basetexture" 		"pi_roma1939/models/props_bunker/blast_door_003_skin1"
+	"$bumpmap"		"pi_roma1939/models/props_bunker/blast_door_003_skin1_normal"
+	$FlashlightNoLambert 1
+	"$halflambert" 		"1"
+
+	"$phong" 		"1"
+	"$phongexponent" 	"50"
+	"$phongboost" 		"1"
+	"$phongfresnelranges" 	"[0.5 0.5 1]"
+
+
+	"$envmap" "env_cubemap"
+   	"$envmaptint" "[.05 .05 .05]"
+	"$basealphaenvmapmask"		"1"
+
+	Proxies
+	{
+		UseHighlight
+		{
+		}
+	}
+}

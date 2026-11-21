@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"		"pi_roma1939/c24_v3/concrete/concretefloor_02"
+	"$detail"		"pi_roma1939/c24_v3/detail/concrete_01"
+	"$detailscale"		"5"
+	"$detailblendmode"		"0"
+	"$model"		"1"
+}

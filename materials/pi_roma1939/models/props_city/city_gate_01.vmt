@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "pi_roma1939/models/props_city/city_gate_01"
+
+	Proxies
+	{
+		UseHighlight
+		{
+		}
+	}
+}

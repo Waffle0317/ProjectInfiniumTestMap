@@ -1,0 +1,7 @@
+VertexLitGeneric
+{
+	$basetexture "pi_roma1939/models/grillsprops/lanternmetal"
+
+	$envmap "env_cubemap"
+	$envmapmask "pi_roma1939/models/grillsprops/LanternMetalSpec"
+}

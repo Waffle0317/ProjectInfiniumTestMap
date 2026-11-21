@@ -1,0 +1,21 @@
+"VertexLitGeneric"
+{
+    "$basetexture" "pi_roma1939/cod_ww2_officeprops/bulb1basetex"
+    "$bumpmap" "pi_roma1939/cod_ww2_officeprops/bulb1offnrm"
+
+	"$nocull" "1"
+	
+	"$ambientocclusion" "0"
+
+
+	"$surfaceprop" "metal"
+	"$model" "1"
+
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[1 1 1]"
+
+	"$phong" "1"
+	"$phongexponent" "150"
+	"$phongboost" "4"
+	"$phongfresnelranges" "[0.3 0.6 1]"
+}

@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"		"cs_italy/pcon2trim"
+	"$bumpmap"		"cs_italy/pcon2trim_normal"
+	"$model"		"1"
+}

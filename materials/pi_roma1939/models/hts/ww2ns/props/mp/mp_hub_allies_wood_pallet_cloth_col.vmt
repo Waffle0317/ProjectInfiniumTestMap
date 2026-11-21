@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "pi_roma1939/models/hts/ww2ns/props/mp/mp_hub_allies_wood_pallet_cloth_col"
+	"$bumpmap" "pi_roma1939/models/hts/ww2ns/props/mp/mp_hub_allies_wood_pallet_cloth_nml"
+	"$translucent" 1
+}

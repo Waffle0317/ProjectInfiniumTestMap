@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "pi_roma1939/unioncity/misc/pooltiles"
+	$bumpmap "pi_roma1939/unioncity/misc/pooltiles_n"
+	$color "[ 0.6 0.6 0.6 ]"
+	$surfaceprop tile
+}

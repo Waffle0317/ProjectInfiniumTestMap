@@ -1,0 +1,7 @@
+VertexLitGeneric
+{
+	"$basetexture"	"pi_roma1939/models\props_urban\railing01a"
+	"$envmap" "env_cubemap"
+	"$envmapmask" "pi_roma1939/models\props_urban\railing01a_ref"
+	"%compilepassbullets" 1
+}

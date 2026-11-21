@@ -1,0 +1,24 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "pi_roma1939/typhon/rpberlin/berlin_marble06"
+	"$bumpmap" 			"pi_roma1939/typhon/rpberlin/berlin_marble06_normal"
+	"$surfaceprop" "tile"
+	"$envmap" "env_cubemap"
+//	"$normalmapalphaenvmapmask" 1	no bumpmap
+	"$envmapcontrast" 1
+	"$envmapsaturation" 1
+	"$envmaptint" "[1 1 1]"
+
+//	$alpha .9
+
+	"$color" "[2 1 1]"
+
+	"$detail" "pi_roma1939/typhon/rpberlin/detail_tile"
+	"$detailscale" 5
+	"$detailblendfactor" .15
+
+	"%keywords" "typhon,berlin,gz"
+
+//	 texture made by gz for typhon
+
+}

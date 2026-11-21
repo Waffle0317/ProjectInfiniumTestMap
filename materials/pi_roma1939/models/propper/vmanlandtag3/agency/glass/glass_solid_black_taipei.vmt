@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$basetexture"		"pi_roma1939/agency\glass\glass_solid_black_taipei"
+	"$normalmapalphaenvmapmask"		"1"
+	"$envmap"		"env_cubemap"
+	"$envmapsaturation"		"1"
+	"$envmapcontrast"		"0.750000"
+	"$envmaptint"		"[.6 .6 .65]"
+	"%keywords"		"agency"
+	"$model"		"1"
+}

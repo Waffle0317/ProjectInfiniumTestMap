@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture"  "pi_roma1939/models/props_building_detail/wooden_frame_set_003"
+$FlashlightNoLambert 1
+}

@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "pi_roma1939/models/hts/ger_bed_bunk_bed/mtl_ger_bed_bunk_01"
+	"$bumpmap" "pi_roma1939/models/hts/ger_bed_bunk_bed/mtl_ger_bed_bunk_01_n"
+}

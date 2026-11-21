@@ -1,0 +1,24 @@
+"VertexLitGeneric"
+{
+    "$basetexture" "pi_roma1939/cod_ww2_officeprops/palm2tex"
+	"$bumpmap"             "pi_roma1939/cod_ww2_officeprops/palm2nrm" 
+	"$surfaceprop"         "foliage"    
+	"$model"               "1"
+	"$nocull"              "1"          
+
+
+	"$alphatest"           "1"          
+	"$alphatestreference"  "0.4"        
+
+	"$halflambert"         "1"          
+
+	"$phong"               "1"
+	"$phongexponent"       "5"
+	"$phongboost"          "0.25"      
+	"$phongfresnelranges"  "[0.1 0.5 1]"
+	"$phongalbedotint"     "1"          
+
+
+	"$ambientocclusion"    "1"          
+
+}

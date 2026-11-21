@@ -1,0 +1,15 @@
+VertexLitGeneric
+{
+	$basetexture "pi_roma1939/models/hts/ger_bed_bunk_bed/mtl_ger_bed_frame_01"
+	$bumpmap "pi_roma1939/models/hts/ger_bed_bunk_bed/mtl_ger_bed_frame_01_n"
+
+	$envmap "env_cubemap"
+	$normalmapalphaenvmapmask 1
+	$envmaptint "[0.18 0.36 0.36]"
+
+	$phong 1
+	$phongfresnelranges "[1 1 1]"
+	$phongexponent 15
+	$phongboost 8
+	$phongalbedoboost 8
+}

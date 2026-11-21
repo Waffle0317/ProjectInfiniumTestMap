@@ -1,0 +1,14 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "pi_roma1939/prometheus/embassy/detail/office_floor"
+	"$surfaceprop" "wood"
+	"$detail" "pi_roma1939/prometheus/embassy/detail/mineral_detail"
+	"$detailscale" "12"
+	"$detailblendmode" "0"
+	"$detailblendfactor" ".06"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[.022 .022 .022]"
+	"$envmapcontrast" "0"
+	"$envmapsaturation" ".25"
+	"$fresnelreflection" ".08"
+}

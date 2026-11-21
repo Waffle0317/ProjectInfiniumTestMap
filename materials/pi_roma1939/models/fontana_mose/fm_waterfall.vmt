@@ -1,0 +1,17 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "pi_roma1939/models/fontana_mose/fm_waterfall"
+	"$surfaceprop" "water"
+	"$translucent" "1"
+	"$nocull" "1"
+	"$color2" "[0.80 0.90 1.0]"
+	"Proxies"
+	{
+		"TextureScroll"
+		{
+			"texturescrollvar" "$basetexturetransform"
+			"texturescrollrate" "0.9"
+			"texturescrollangle" "270"
+		}
+	}
+}

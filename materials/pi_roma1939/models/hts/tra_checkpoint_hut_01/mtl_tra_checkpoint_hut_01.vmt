@@ -1,0 +1,15 @@
+VertexLitGeneric
+{
+	$basetexture "pi_roma1939/models/hts/tra_checkpoint_hut_01/tra_checkpoint_hut_01_d"
+	$bumpmap "pi_roma1939/models/hts/tra_checkpoint_hut_01/tra_checkpoint_hut_01_n"
+
+	$envmap "env_cubemap"
+	$normalmapalphaenvmapmask 1
+	$envmapcontrast 1
+
+	$phong 1
+	$phongfresnelranges "[1 1 1]"
+	$phongexponent 1
+	$phongboost 8
+	$phongalbedoboost 8
+}

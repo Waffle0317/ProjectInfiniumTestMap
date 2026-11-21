@@ -1,0 +1,17 @@
+"LightmappedGeneric"
+{
+	"$basetexture" 			"pi_roma1939/typhon/rpberlin/berlin_wood07"
+	"$bumpmap" 			"pi_roma1939/typhon/rpberlin/berlin_wood07_normal"
+	"$surfaceprop" "wood"
+
+//"$color" "[2.3 2.3 2]"
+
+	"$detail" "pi_roma1939/typhon/rpberlin/detail_generic"
+	"$detailscale" 3
+	"$detailblendfactor" .6
+
+	"%keywords" "typhon,berlin,gz"
+
+//	 texture made by gz for typhon
+
+}

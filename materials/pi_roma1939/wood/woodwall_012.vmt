@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "pi_roma1939/wood/woodwall_012"
+	"$bumpmap" "pi_roma1939/wood/woodwall_012_bump"
+	"$envmap" "env_cubemap"
+        "$envmaptint" "[ .02 .02 .02 ]"
+	"$surfaceprop" "Wood_Panel"
+}

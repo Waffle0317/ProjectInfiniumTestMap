@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "pi_roma1939/colosseum/wood_planks"
+	"$bumpmap" "pi_roma1939/colosseum/wood_planks_normal"
+	"$surfaceprop" "wood"
+	"%keywords" "colosseum, wood, floor"
+}

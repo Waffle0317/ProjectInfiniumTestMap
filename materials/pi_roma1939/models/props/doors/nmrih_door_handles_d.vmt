@@ -1,0 +1,6 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "pi_roma1939/models/props/doors/nmrih_door_handles_d"
+	"$surfaceprop" "metal"
+//	$envmap env_cubemap
+}

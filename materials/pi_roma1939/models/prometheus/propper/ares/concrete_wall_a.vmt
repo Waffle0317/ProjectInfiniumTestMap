@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture"		"pi_roma1939/ares/concrete_wall_a"
+	"$bumpmap"		"pi_roma1939/ares/floor_normal"
+	"$model"		"1"
+}

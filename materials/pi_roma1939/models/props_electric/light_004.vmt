@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{		
+	"$basetexture" 		"pi_roma1939/models/props_electric/light_004"
+	"$bumpmap"		"pi_roma1939/models/props_electric/light_004_normal"
+
+	"$halflambert" 		"1"
+
+	"$phong" 		"1"
+	"$phongexponent" 	"2"
+	"$phongboost" 		"2"
+	"$phongfresnelranges" 	"[0.5 0.5 1]"
+}

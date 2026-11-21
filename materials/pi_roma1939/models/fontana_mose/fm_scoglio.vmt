@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "pi_roma1939/models/fontana_mose/fm_scoglio"
+	"$surfaceprop" "rock"
+}

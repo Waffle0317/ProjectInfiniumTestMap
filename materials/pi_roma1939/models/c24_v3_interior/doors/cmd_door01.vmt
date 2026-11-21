@@ -1,0 +1,16 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "pi_roma1939/c24_v3/wood/cmd_door01"
+	$bumpmap "pi_roma1939/c24_v3/wood/cmd_door01_n"
+	"$surfaceprop" "wood"
+	$envmapsaturation "1"
+	$envmapcontrast "1"
+	"$envmaptint" "[ 0.6 0.6 0.6 ]"
+	"$envmap" "env_cubemap"
+	$normalmapalphaenvmapmask 1
+
+
+	$detail "pi_roma1939/c24_v3/detail/concrete_01"
+	$detailscale 5	
+	$detailblendmode 0
+}

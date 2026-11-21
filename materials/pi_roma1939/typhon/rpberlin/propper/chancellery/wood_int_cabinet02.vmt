@@ -1,0 +1,8 @@
+vertexlitgeneric
+{
+$basetexture "pi_roma1939/wood/wood_int_cabinet02"
+$surfaceprop wood
+
+
+"%keywords" l4d2
+}

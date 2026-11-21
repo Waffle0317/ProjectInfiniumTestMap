@@ -1,0 +1,21 @@
+"VertexLitGeneric"
+{
+    "$basetexture" "pi_roma1939/cod_ww2_officeprops/standinglamp1tex"
+    	"$bumpmap" "pi_roma1939/cod_ww2_officeprops/standinglamp1nrm" 
+	"$surfaceprop"         "carpet"          
+	"$model"               "1"
+	"$nocull"              "1"               
+
+
+
+	"$halflambert"         "1"               
+
+
+	"$phong"               "1"
+	"$phongexponent"       "6"               
+	"$phongboost"          "0.4"             
+	"$phongfresnelranges"  "[0.1 0.5 1]"
+	"$phongalbedotint"     "1"               
+
+}
+

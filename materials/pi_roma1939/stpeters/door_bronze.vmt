@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "pi_roma1939/stpeters/door_bronze"
+	"$bumpmap" "pi_roma1939/stpeters/door_bronze_normal"
+	"$surfaceprop" "metal"
+"$envmap" "env_cubemap"
+"$envmaptint" "[.12 .09 .05]"
+}

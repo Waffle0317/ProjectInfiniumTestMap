@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+$basetexture "pi_roma1939/brick/hr_brick/brick_f"
+$bumpmap "pi_roma1939/brick/hr_brick/brick_f_normals"
+$surfaceprop "brick"
+
+
+}

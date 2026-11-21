@@ -1,0 +1,11 @@
+patch
+{
+	include "materials/pi_roma1939/models/props_foliage/bush_sway.vmt"
+
+	insert
+	{
+		"$basetexture" "pi_roma1939/models/props_foliage/reed_001_skin1"
+		"$nocull" 1
+		$FlashlightNoLambert 1
+	}
+}

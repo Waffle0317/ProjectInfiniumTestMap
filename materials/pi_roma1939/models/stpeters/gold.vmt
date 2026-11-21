@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "pi_roma1939/stpeters/gold"
+	"$surfaceprop" "metal"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[.8 .62 .28]"
+}

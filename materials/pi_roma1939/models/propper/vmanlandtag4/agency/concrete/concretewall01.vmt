@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$basetexture"		"pi_roma1939/agency\concrete\concretewall01"
+	"$envmap"		"env_cubemap"
+	"$normalmapalphaenvmapmask"		"1"
+	"$envmapsaturation"		"0.600000"
+	"$envmapcontrast"		"1"
+	"$envmaptint"		"[.15 .15 .15]"
+	"%keywords"		"agency"
+	"$model"		"1"
+}

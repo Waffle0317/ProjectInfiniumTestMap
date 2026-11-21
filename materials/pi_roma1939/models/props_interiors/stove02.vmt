@@ -1,0 +1,9 @@
+VertexLitGeneric
+{
+$baseTexture "pi_roma1939/models\props_interiors/Stove02"
+$envmap env_cubemap
+$envmapmask "pi_roma1939/models\props_interiors\Stove02_ref"
+$envmapcontrast ".7"
+$envmapsaturation ".2"
+$envmaptint "[.4 .4 .4]"
+}
