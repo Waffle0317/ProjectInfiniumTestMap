@@ -9,7 +9,15 @@ The repository **is** the addon folder: `maps/`, `materials/`, `models/`, `sound
 The map file is over GitHub's 100 MB limit, so it travels zipped: `maps/rp_projectinfinium_roma1939_v1.bsp.zip` (about 85 MB).
 **It has to be unpacked once after every download or update** - one double-click for testers, one click in the server panel.
 
-## Testers - installing
+## Testers - just join
+
+Join the server. Steam downloads the map and everything it needs by itself (about 1.2 GB the first time, and again after
+each map update) - Workshop item [3843793036](https://steamcommunity.com/sharedfiles/filedetails/?id=3843793036).
+Subscribing to that item beforehand does the same download ahead of time.
+
+The steps below are only needed if that download does not work for you.
+
+## Testers - installing by hand
 
 1. Get the files - either way works:
    - **Download ZIP** (the green *Code* button on GitHub) and unpack it, or
