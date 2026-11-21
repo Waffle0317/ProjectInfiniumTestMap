@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "cs_italy/brickwall01"
+	"$surfaceprop" "plaster"
+}

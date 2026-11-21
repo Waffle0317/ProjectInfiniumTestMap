@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "cs_havana/tunnelplaster02"
+	"$surfaceprop" "plaster"
+}

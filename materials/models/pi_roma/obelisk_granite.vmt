@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "pi_roma/obelisk_granite"
+	"$surfaceprop" "concrete"
+}

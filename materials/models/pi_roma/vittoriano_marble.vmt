@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "pi_roma1939/vittoriano/marble"
+	"$surfaceprop" "rock"
+	"$detail" "pi_roma1939/vittoriano/detail_grain"
+	"$detailscale" "6"
+	"$detailblendfactor" "0.7"
+}

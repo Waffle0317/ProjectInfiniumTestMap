@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "pi_roma/glass"
+	"$alpha" "0.32"
+	"$nocull" "1"
+}

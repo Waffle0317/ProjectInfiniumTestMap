@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "pi_roma1939/stpeters/stucco"
+	"$nocull" "1"
+	"$color2" "[0.93 0.70 0.50]"
+}

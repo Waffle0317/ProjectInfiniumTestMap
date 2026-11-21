@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "pi_roma/ap_arms12"
+	"$alphatest" "1"
+	"$alphatestreference" "0.5"
+	"$nocull" "1"
+}

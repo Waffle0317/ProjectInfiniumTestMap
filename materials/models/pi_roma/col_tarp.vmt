@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "pi_roma/col_tarp"
+	"$surfaceprop" "carpet"
+	"$nocull" "1"
+}

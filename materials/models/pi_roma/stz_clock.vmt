@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "pi_roma/stz_clock"
+	"$model" "1"
+	"$color" "[0.9 0.9 0.86]"
+}

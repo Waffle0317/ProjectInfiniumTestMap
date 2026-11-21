@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "pi_roma1939/vittoriano/bronze_door"
+	"$surfaceprop" "metal"
+	"$detail" "pi_roma1939/vittoriano/detail_grain"
+	"$detailscale" "6"
+	"$detailblendfactor" "0.5"
+}

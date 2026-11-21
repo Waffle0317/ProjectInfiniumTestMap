@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "pi_roma/fac_banded_travertine"
+	"$surfaceprop" "plaster"
+}

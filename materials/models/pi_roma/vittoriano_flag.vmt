@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$surfaceprop" "cloth"
+	"$nocull" "1"
+	"$basetexture" "pi_roma/flag_regno"
+}

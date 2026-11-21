@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "roma39/sidewalk"
+	"$bumpmap" "roma39/sidewalk_normal"
+	"$surfaceprop" "concrete"
+}

@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "pi_roma/ps_stone"
+	"$alphatest" "1"
+	"$alphatestreference" "0.5"
+}

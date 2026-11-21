@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "roma39/roof_tiles"
+	"$surfaceprop" "tile"
+}

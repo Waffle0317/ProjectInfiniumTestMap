@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "roma39/awning_blue"
+	"$nocull" "1"
+}

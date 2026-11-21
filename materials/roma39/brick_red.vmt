@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "roma39/brick_red"
+	"$bumpmap" "roma39/brick_red_normal"
+	"$surfaceprop" "brick"
+}

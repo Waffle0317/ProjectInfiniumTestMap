@@ -1,0 +1,6 @@
+"WorldVertexTransition"
+{
+	"$basetexture" "nature/grassfloor002a"
+	"$basetexture2" "roma39/blend_path_b"
+	"$surfaceprop" "grass"
+}

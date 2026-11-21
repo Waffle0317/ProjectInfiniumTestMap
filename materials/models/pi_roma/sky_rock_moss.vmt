@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "nature/cliffface002a"
+	"$nocull" "1"
+	"$color2" "[0.66 0.80 0.46]"
+}

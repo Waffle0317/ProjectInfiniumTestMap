@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "pi_roma/fac_aged_terra"
+	"$surfaceprop" "plaster"
+}

@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "pi_roma/quir_fasces_cut"
+	"$alphatest" "1"
+	"$alphatestreference" "0.5"
+}

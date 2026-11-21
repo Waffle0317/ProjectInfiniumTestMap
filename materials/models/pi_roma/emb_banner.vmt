@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "pi_roma/emb_banner"
+	"$nocull" "1"
+}

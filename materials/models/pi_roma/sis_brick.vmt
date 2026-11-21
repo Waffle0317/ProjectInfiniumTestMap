@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "roma39/brick_ruin"
+	"$nocull" "1"
+}

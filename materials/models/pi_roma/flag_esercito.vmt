@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "pi_roma/flag_esercito"
+	"$nocull" "1"
+}

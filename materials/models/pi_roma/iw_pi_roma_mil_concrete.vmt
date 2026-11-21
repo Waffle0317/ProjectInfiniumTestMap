@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "pi_roma/mil_concrete"
+	"$surfaceprop" "concrete"
+}

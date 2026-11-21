@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "pi_roma/braschi_arms"
+	"$alphatest" "1"
+	"$alphatestreference" "0.5"
+}

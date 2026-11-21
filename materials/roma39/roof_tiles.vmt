@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "roma39/roof_tiles"
+	"$bumpmap" "roma39/roof_tiles_normal"
+	"$surfaceprop" "tile"
+}

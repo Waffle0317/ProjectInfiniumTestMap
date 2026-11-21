@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture" "pi_roma/sis_c3"
+	"$color" "[0.95 0.95 0.95]"
+	"$model" "1"
+	"$nocull" "1"
+}

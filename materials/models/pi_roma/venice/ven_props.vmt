@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/pi_roma/venice/ven_props"
+	"$nocull" "1"
+}

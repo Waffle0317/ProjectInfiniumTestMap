@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "pi_roma/plaster_brass"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[.35 .28 .12]"
+}

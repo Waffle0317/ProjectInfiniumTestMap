@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "pi_roma/q_pane"
+	"$translucent" "1"
+	"$alpha" "0.14"
+	"$surfaceprop" "glass"
+}
